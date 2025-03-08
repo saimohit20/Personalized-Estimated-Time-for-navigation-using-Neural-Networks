@@ -1,8 +1,4 @@
-# Predict individual driving habits
-
-## Repository Link
-
-https://github.com/maciejlipski/opencampus_travel_time
+# Personalized Estimated Time for navigation
 
 ## Description
 
